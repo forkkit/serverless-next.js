@@ -11,3 +11,6 @@ sls-next-build
 **/examples/**/package-lock.json
 .DS_Store
 yarn.lock
+dist
+.vscode
+.env
